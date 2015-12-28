@@ -11,7 +11,8 @@
     "cakephp/cakephp" : "2.5.*",
     "friendsofcake/crud" : "3.*",
     "josegonzalez/dotenv": "1.*",
-    "ad7six/dsn": "0.3.*"
+    "ad7six/dsn": "0.3.*",
+    "phpunit/phpunit": "3.7.*"
   },
   "require-dev": {
     "cakephp/debug_kit" : "2.2.*"
